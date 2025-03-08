@@ -1,0 +1,486 @@
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Licenses.txt
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Sounds\failure-tbone.wav
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Sounds\success.wav
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\InventoryManagement.exe.config
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\InventoryManagement.exe
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\InventoryManagement.pdb
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\BarcodeStandard.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\ClosedXML.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\ControlzEx.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\DocumentFormat.OpenXml.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\EntityFramework.SqlServer.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\EntityFramework.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\ExcelNumberFormat.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\FastMember.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\MahApps.Metro.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Microsoft.Xaml.Behaviors.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\PdfSharp-wpf.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\PdfSharp.Charting-wpf.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.SQLite.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Buffers.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.SQLite.EF6.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.SQLite.Linq.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Drawing.Common.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.IO.Packaging.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Memory.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Numerics.Vectors.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Text.Encodings.Web.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Text.Json.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Threading.Tasks.Extensions.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.ValueTuple.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\de\MahApps.Metro.resources.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\de\PdfSharp-wpf.resources.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\de\PdfSharp.Charting-wpf.resources.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.Common.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Diagnostics.StackTrace.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Diagnostics.Tracing.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Globalization.Extensions.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.IO.Compression.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Net.Http.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Net.Sockets.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Runtime.Serialization.Primitives.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Security.Cryptography.Algorithms.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Security.SecureString.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Threading.Overlapped.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Xml.XPath.XDocument.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.exe.config
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Controls\ToolbarMenu.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\Brushes.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ButtonStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\CheckBoxStyle.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ComboBoxStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\DataGridStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\DatePickerStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ImagesResources.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ScrollViewerStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\TextBlockStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\UITheme.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\Login.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Controls\ToolbarMenu.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\MainWindow.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\AdjustQuantity.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ChangePassword.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditCurrency.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItem.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItemType.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditUser.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\FinalizePurchase.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\GenerateBarcodes.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\HomeScreen.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\Login.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageAppSettings.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageItems.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageUsers.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanAndPurchase.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanItems.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewCurrencies.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemSoldInfo.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemTypes.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewQuantityAdjustments.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewReports.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\App.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement_Content.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\GeneratedInternalTypeHelper.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement_MarkupCompile.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement_MarkupCompile.lref
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\App.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\MainWindow.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Themes\Generic.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\AdjustQuantity.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ChangePassword.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditCurrency.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItem.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItemType.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditUser.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\FinalizePurchase.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\GenerateBarcodes.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\HomeScreen.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageAppSettings.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageItems.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageUsers.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanAndPurchase.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanItems.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewCurrencies.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemSoldInfo.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemTypes.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewQuantityAdjustments.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewReports.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.g.resources
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.Properties.Resources.resources
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.GenerateResource.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.AssemblyInfo.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Inventor.F96114ED.Up2Date
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.exe
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.pdb
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Licenses.txt
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Sounds\failure-tbone.wav
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Sounds\success.wav
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\InventoryManagement.exe.config
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\InventoryManagement.exe
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\InventoryManagement.pdb
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\BarcodeStandard.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\ClosedXML.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\ControlzEx.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\DocumentFormat.OpenXml.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\EntityFramework.SqlServer.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\EntityFramework.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\ExcelNumberFormat.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\FastMember.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\MahApps.Metro.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Microsoft.Xaml.Behaviors.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\PdfSharp-wpf.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\PdfSharp.Charting-wpf.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.SQLite.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Buffers.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.SQLite.EF6.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.SQLite.Linq.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Drawing.Common.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.IO.Packaging.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Memory.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Numerics.Vectors.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Text.Encodings.Web.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Text.Json.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Threading.Tasks.Extensions.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.ValueTuple.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\de\MahApps.Metro.resources.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\de\PdfSharp-wpf.resources.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\de\PdfSharp.Charting-wpf.resources.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.Common.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Diagnostics.StackTrace.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Diagnostics.Tracing.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Globalization.Extensions.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.IO.Compression.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Net.Http.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Net.Sockets.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Runtime.Serialization.Primitives.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Security.Cryptography.Algorithms.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Security.SecureString.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Threading.Overlapped.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Xml.XPath.XDocument.dll
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.exe.config
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Controls\ToolbarMenu.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\Brushes.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ButtonStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\CheckBoxStyle.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ComboBoxStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\DataGridStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\DatePickerStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ImagesResources.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ScrollViewerStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\TextBlockStyles.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\UITheme.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\Login.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Controls\ToolbarMenu.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\MainWindow.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\AdjustQuantity.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ChangePassword.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditCurrency.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItem.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItemType.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditUser.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\FinalizePurchase.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\GenerateBarcodes.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\HomeScreen.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\Login.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageAppSettings.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageItems.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageUsers.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanAndPurchase.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanItems.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewCurrencies.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemSoldInfo.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemTypes.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewQuantityAdjustments.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewReports.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\App.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement_Content.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\GeneratedInternalTypeHelper.g.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement_MarkupCompile.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement_MarkupCompile.lref
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\App.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\MainWindow.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Themes\Generic.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\AdjustQuantity.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ChangePassword.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditCurrency.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItem.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItemType.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditUser.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\FinalizePurchase.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\GenerateBarcodes.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\HomeScreen.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageAppSettings.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageItems.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageUsers.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanAndPurchase.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanItems.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewCurrencies.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemSoldInfo.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemTypes.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewQuantityAdjustments.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewReports.baml
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.g.resources
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.Properties.Resources.resources
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.GenerateResource.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.AssemblyInfo.cs
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Inventor.F96114ED.Up2Date
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.exe
+C:\Users\shali\Desktop\DESKTOP 2\5\WPF_InventoryManagement-main\Project inventory desktop\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.pdb
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Licenses.txt
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Sounds\failure-tbone.wav
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Sounds\success.wav
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\InventoryManagement.exe.config
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\InventoryManagement.exe
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\InventoryManagement.pdb
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\BarcodeStandard.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\ClosedXML.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\ControlzEx.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\DocumentFormat.OpenXml.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\EntityFramework.SqlServer.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\EntityFramework.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\ExcelNumberFormat.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\FastMember.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\MahApps.Metro.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\Microsoft.Xaml.Behaviors.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\PdfSharp-wpf.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\PdfSharp.Charting-wpf.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.SQLite.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Buffers.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.SQLite.EF6.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.SQLite.Linq.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Drawing.Common.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.IO.Packaging.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Memory.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Numerics.Vectors.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Text.Encodings.Web.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Text.Json.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Threading.Tasks.Extensions.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.ValueTuple.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\de\MahApps.Metro.resources.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\de\PdfSharp-wpf.resources.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\de\PdfSharp.Charting-wpf.resources.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Data.Common.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Diagnostics.StackTrace.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Diagnostics.Tracing.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Globalization.Extensions.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.IO.Compression.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Net.Http.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Net.Sockets.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Runtime.Serialization.Primitives.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Security.Cryptography.Algorithms.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Security.SecureString.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Threading.Overlapped.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\bin\Debug\net471\System.Xml.XPath.XDocument.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.exe.config
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Controls\ToolbarMenu.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\Brushes.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ButtonStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\CheckBoxStyle.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ComboBoxStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\DataGridStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\DatePickerStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ImagesResources.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\ScrollViewerStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\TextBlockStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Theme\UITheme.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\Login.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Controls\ToolbarMenu.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\MainWindow.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\AdjustQuantity.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ChangePassword.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditCurrency.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItem.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItemType.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditUser.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\FinalizePurchase.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\GenerateBarcodes.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\HomeScreen.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\Login.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageAppSettings.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageItems.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageUsers.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanAndPurchase.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanItems.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewCurrencies.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemSoldInfo.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemTypes.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewQuantityAdjustments.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewReports.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\App.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement_Content.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\GeneratedInternalTypeHelper.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement_MarkupCompile.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement_MarkupCompile.lref
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\App.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\MainWindow.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Themes\Generic.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\AdjustQuantity.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ChangePassword.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditCurrency.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItem.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItemType.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\CreateOrEditUser.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\FinalizePurchase.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\GenerateBarcodes.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\HomeScreen.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageAppSettings.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageItems.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ManageUsers.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanAndPurchase.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ScanItems.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewCurrencies.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemSoldInfo.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewItemTypes.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewQuantityAdjustments.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Views\ViewReports.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.g.resources
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.Properties.Resources.resources
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.GenerateResource.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.AssemblyInfo.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\Inventor.F96114ED.Up2Date
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.exe
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement-main\InventoryManagement\obj\Debug\net471\InventoryManagement.pdb
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\Licenses.txt
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\Sounds\failure-tbone.wav
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\Sounds\success.wav
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\InventoryManagement.exe.config
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\InventoryManagement.exe
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\InventoryManagement.pdb
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\BarcodeStandard.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\ClosedXML.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\ControlzEx.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\DocumentFormat.OpenXml.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\EntityFramework.SqlServer.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\EntityFramework.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\ExcelNumberFormat.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\FastMember.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\MahApps.Metro.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\MaterialDesignColors.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\MaterialDesignThemes.Wpf.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\Microsoft.Xaml.Behaviors.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\PdfSharp-wpf.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\PdfSharp.Charting-wpf.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Data.SQLite.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Buffers.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Data.SQLite.EF6.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Data.SQLite.Linq.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Drawing.Common.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.IO.Packaging.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Memory.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Numerics.Vectors.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Text.Encodings.Web.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Text.Json.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Threading.Tasks.Extensions.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.ValueTuple.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\de\MahApps.Metro.resources.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\de\PdfSharp-wpf.resources.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\de\PdfSharp.Charting-wpf.resources.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Data.Common.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Diagnostics.StackTrace.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Diagnostics.Tracing.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Globalization.Extensions.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.IO.Compression.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Net.Http.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Net.Sockets.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Runtime.Serialization.Primitives.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Security.Cryptography.Algorithms.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Security.SecureString.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Threading.Overlapped.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\bin\Debug\net471\System.Xml.XPath.XDocument.dll
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.exe.config
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Controls\ToolbarMenu.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\Brushes.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\ButtonStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\CheckBoxStyle.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\ComboBoxStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\DataGridStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\DatePickerStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\ImagesResources.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\ScrollViewerStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\TextBlockStyles.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Theme\UITheme.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\Login.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Controls\ToolbarMenu.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\MainWindow.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\AdjustQuantity.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ChangePassword.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\CreateOrEditCurrency.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItem.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItemType.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\CreateOrEditUser.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\FinalizePurchase.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\GenerateBarcodes.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\HomeScreen.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\Login.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ManageAppSettings.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ManageItems.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ManageUsers.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ScanAndPurchase.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ScanItems.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewCurrencies.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewItemSoldInfo.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewItemTypes.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewQuantityAdjustments.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewReports.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\App.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement_Content.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\GeneratedInternalTypeHelper.g.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement_MarkupCompile.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement_MarkupCompile.lref
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\App.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\MainWindow.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Themes\Generic.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\AdjustQuantity.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ChangePassword.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\CreateOrEditCurrency.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItem.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\CreateOrEditItemType.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\CreateOrEditUser.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\FinalizePurchase.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\GenerateBarcodes.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\HomeScreen.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ManageAppSettings.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ManageItems.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ManageUsers.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ScanAndPurchase.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ScanItems.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewCurrencies.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewItemSoldInfo.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewItemTypes.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewQuantityAdjustments.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Views\ViewReports.baml
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.g.resources
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.Properties.Resources.resources
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.GenerateResource.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.AssemblyInfo.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\Inventor.F96114ED.Up2Date
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.exe
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\InventoryManagement.pdb

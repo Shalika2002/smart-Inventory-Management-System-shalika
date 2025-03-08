@@ -1,0 +1,20 @@
+﻿InventoryManagement
+0.10.0.0
+
+winexe
+C#
+.cs
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\obj\Debug\net471\
+InventoryManagement
+none
+false
+TRACE;DEBUG;NETFRAMEWORK;NET471;
+C:\Users\shali\Desktop\GUI React\desktop\inventory\WPF_InventoryManagement\InventoryManagement\App.xaml
+33-600769792
+3436274772
+85-559267396
+161861470597
+Controls\ToolbarMenu.xaml;MainWindow.xaml;Themes\Generic.xaml;Theme\Brushes.xaml;Theme\ButtonStyles.xaml;Theme\CheckBoxStyle.xaml;Theme\ComboBoxStyles.xaml;Theme\DataGridStyles.xaml;Theme\DatePickerStyles.xaml;Theme\ImagesResources.xaml;Theme\ScrollViewerStyles.xaml;Theme\TextBlockStyles.xaml;Theme\UITheme.xaml;Views\AdjustQuantity.xaml;Views\ChangePassword.xaml;Views\CreateOrEditCurrency.xaml;Views\CreateOrEditItem.xaml;Views\CreateOrEditItemType.xaml;Views\CreateOrEditUser.xaml;Views\FinalizePurchase.xaml;Views\GenerateBarcodes.xaml;Views\HomeScreen.xaml;Views\Login.xaml;Views\ManageAppSettings.xaml;Views\ManageItems.xaml;Views\ManageUsers.xaml;Views\ScanAndPurchase.xaml;Views\ScanItems.xaml;Views\ViewCurrencies.xaml;Views\ViewItemSoldInfo.xaml;Views\ViewItemTypes.xaml;Views\ViewQuantityAdjustments.xaml;Views\ViewReports.xaml;
+
+False
+
