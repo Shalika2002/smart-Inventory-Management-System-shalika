@@ -101,13 +101,13 @@
                          mahapps:TextBoxHelper.Watermark="My New Friend"
                          FontSize="14"
                          TabIndex="0" />
-                <Label Content="Phone #"
+                <Label Content="Phone Number"
                        Margin="30,0,10,0"
                        FontWeight="Bold"
                        FontSize="16"
                        VerticalAlignment="Center" />
                 <TextBox Width="200"
-                         mahapps:TextBoxHelper.Watermark="+855 088 448 1122"
+                         mahapps:TextBoxHelper.Watermark="+94 34 222 0894"
                          Text="{Binding CustomerPhone}"
                          VerticalContentAlignment="Center"
                          FontSize="14"

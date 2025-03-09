@@ -43,6 +43,7 @@
                 KeyDown="PasswordInput_KeyDown"
                 PasswordChanged="PasswordInput_PasswordChanged" />
             <Button
+                BorderBrush="DarkBlue"
                 Width="150"
                 Margin="10"
                 Command="{Binding AttemptLogin}"
