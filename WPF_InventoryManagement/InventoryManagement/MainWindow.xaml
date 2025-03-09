@@ -148,7 +148,7 @@
                         <custom:HamburgerMenuItem
                             Grid.Row="1"
                             Command="{Binding MoveToScanItemsScreen}"
-                            Header="Scan wrappers"
+                            Header="Scan to Sell"
                             Tag="ScanItems">
                             
                             <custom:HamburgerMenuItem.Icon>
@@ -159,7 +159,7 @@
                         <custom:HamburgerMenuItem
                             Grid.Row="2"
                             Command="{Binding MoveToScanAndPurchaseItemsScreen}"
-                            Header="Scan Order and Purchase"
+                            Header="Scan to Buy"
                             Tag="ScanOrderandPurchase">
 
                             <custom:HamburgerMenuItem.Icon>

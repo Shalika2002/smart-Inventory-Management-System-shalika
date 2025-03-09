@@ -40,7 +40,7 @@
             Grid.ColumnSpan="2"
             HorizontalAlignment="Center"
             VerticalAlignment="Center"
-            Content="Scan Items"
+            Content="Scan Items to Sell"
             FontSize="16"
             FontWeight="Bold" />
         <Grid Grid.Row="1" Grid.Column="0">
