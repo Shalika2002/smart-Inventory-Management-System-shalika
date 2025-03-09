@@ -3049,11 +3049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shali\\Desktop\\GUI React\\desktop\\inventory\\WPF_InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
+      "projectUniqueName": "C:\\Users\\shali\\Desktop\\DSA Project\\smart-Inventory-Management-System-shalika\\smart-Inventory-Management-System-shalika\\WPF_InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
       "projectName": "InventoryManagement",
-      "projectPath": "C:\\Users\\shali\\Desktop\\GUI React\\desktop\\inventory\\WPF_InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
+      "projectPath": "C:\\Users\\shali\\Desktop\\DSA Project\\smart-Inventory-Management-System-shalika\\smart-Inventory-Management-System-shalika\\WPF_InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
       "packagesPath": "C:\\Users\\shali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shali\\Desktop\\GUI React\\desktop\\inventory\\WPF_InventoryManagement\\InventoryManagement\\obj\\",
+      "outputPath": "C:\\Users\\shali\\Desktop\\DSA Project\\smart-Inventory-Management-System-shalika\\smart-Inventory-Management-System-shalika\\WPF_InventoryManagement\\InventoryManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

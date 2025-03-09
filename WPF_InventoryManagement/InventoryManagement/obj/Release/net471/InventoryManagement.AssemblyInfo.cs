@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright ©  2021")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.10.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7072d86d90206a1cf1c6fa8940622de61043d10")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleInventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleInventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.10.0.0")]

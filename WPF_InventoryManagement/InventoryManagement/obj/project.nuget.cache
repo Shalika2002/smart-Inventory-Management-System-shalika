@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2wqB3eGX05c=",
+  "dgSpecHash": "sI4PkPTwJdA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shali\\Desktop\\GUI React\\desktop\\inventory\\WPF_InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
+  "projectFilePath": "C:\\Users\\shali\\Desktop\\DSA Project\\smart-Inventory-Management-System-shalika\\smart-Inventory-Management-System-shalika\\WPF_InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shali\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
     "C:\\Users\\shali\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",
