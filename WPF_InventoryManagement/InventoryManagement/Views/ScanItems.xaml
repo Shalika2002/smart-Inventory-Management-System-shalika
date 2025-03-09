@@ -104,7 +104,7 @@
                 Margin="0,5,0,0"
                 HorizontalAlignment="Center"
                 VerticalAlignment="Top"
-                Content="Purchase Details"
+                Content="Bill Details"
                 FontSize="16"
                 FontWeight="Bold" />
             <StackPanel
