@@ -67,7 +67,7 @@ export default function Inventory() {
                                 </td>
                                 <td>{medicine.category}</td>
                                 <td>{medicine.type}</td>
-                                <td>₹{medicine.price}</td>
+                                <td>${medicine.price}</td>
                                 <td>{medicine.stock}</td>
                                 <td className="td-actions">
                                   <div className="form-button-action">

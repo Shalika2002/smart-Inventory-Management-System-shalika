@@ -138,7 +138,7 @@ export default function AddMedicine() {
                       </select>
                     </div>
                     <div className="form-group">
-                      <label htmlFor="price">Medicine Price (in ₹.)</label>
+                      <label htmlFor="price">Medicine Price (in $.)</label>
                       <input
                         type="text"
                         className="form-control"
