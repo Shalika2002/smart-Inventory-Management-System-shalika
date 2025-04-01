@@ -49,7 +49,7 @@ export default function AdminSideBar(props) {
             <li className="nav-item">
               <Link to="/">
                 <i className="la la-dashboard"></i>
-                <p>Dashboard</p>
+                <p fontWeight="bold">Dashboard</p>
               </Link>
             </li>
             <li className="nav-item">

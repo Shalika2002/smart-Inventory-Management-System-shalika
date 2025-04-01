@@ -16,5 +16,5 @@ C:\Users\shali\Desktop\DSA Project\smart-Inventory-Management-System-shalika\sma
 168-1857595643
 Controls\ToolbarMenu.xaml;MainWindow.xaml;Themes\Generic.xaml;Theme\Brushes.xaml;Theme\ButtonStyles.xaml;Theme\CheckBoxStyle.xaml;Theme\ComboBoxStyles.xaml;Theme\DataGridStyles.xaml;Theme\DatePickerStyles.xaml;Theme\ImagesResources.xaml;Theme\ScrollViewerStyles.xaml;Theme\TextBlockStyles.xaml;Theme\UITheme.xaml;Views\AdjustQuantity.xaml;Views\ChangePassword.xaml;Views\CreateOrEditCurrency.xaml;Views\CreateOrEditItem.xaml;Views\CreateOrEditItemType.xaml;Views\CreateOrEditUser.xaml;Views\FinalizePurchase.xaml;Views\GenerateBarcodes.xaml;Views\HomeScreen.xaml;Views\Login.xaml;Views\ManageAppSettings.xaml;Views\ManageItems.xaml;Views\ManageUsers.xaml;Views\ScanAndPurchase.xaml;Views\ScanItems.xaml;Views\ViewCurrencies.xaml;Views\ViewItemSoldInfo.xaml;Views\ViewItemTypes.xaml;Views\ViewQuantityAdjustments.xaml;Views\ViewReports.xaml;
 
-True
+False
 
